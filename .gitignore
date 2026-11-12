@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+buku parfum/
 
 # debug
 npm-debug.log*
